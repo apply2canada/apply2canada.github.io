@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apply2Canada</title>
+    <description>一些帮助你申请加拿大学校的文章
+</description>
+    <link>http://apply2canada.github.io/</link>
+    <atom:link href="http://apply2canada.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Sep 2016 20:55:41 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 20:55:41 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>关于约克和卡尔加里二学位的瞎扯</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;注：本文作者step，首发于&lt;a href=&quot;http://bbs.gter.net&quot;&gt;寄托&lt;/a&gt;加版，现征得作者同意，将此文放在此站。未经作者亲自授权，任何人不得以任何理由转载此文。希望到原文地址查看的（原帖子后面27楼起，有对本帖的讨论。），请点击&lt;a href=&quot;http://bbs.gter.net/forum.php?mod=viewthread&amp;amp;tid=1937101&amp;amp;highlight=%B6%FE%D1%A7%CE%BB&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;再过十几天就要滚去加国，也算是一个阶段尘埃落定，写点东西和大家分享一下，希望对后来申二学位的朋友多少有点帮助，就像我曾经从很多人的帖子中得到帮助那样。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;关于二学位&lt;/h2&gt;
+
+&lt;p&gt;不知道是不是我的幻觉，二学位这个词在寄托感觉有点敏感？我自己看的话，这只是一种个人选择，今年也有同学感觉自己hold不住cs，申了其他专业的二学位。cs二学位不是除了cs外毫无去处，也不是入了cs的人都是抛弃了梦想的跟风党，这只是适合你或是不适合你的一种选择，做出判断的人只能是你自己。&lt;/p&gt;
+
+&lt;p&gt;今年在论坛和群里都有看到有人问我是XX转CS，然后问大家行不行。我一般都会避免回答这种问题，一是我还没有真入cs这个坑，感觉自己没能力回答，二是我不是你，我不能从你的专业看出你的特质你的生活你的想法，我感觉自己依旧没能力回答。对于转cs行不行这一点大概是所有选择cs二学位这个人都曾面临的问题，我觉得最简单的办法，去撸一撸网课，撸一撸教材，甚至撸一撸码，了解不到国外cs的工作情况，找朋友或者通过网络了解一下国内cs的工作内容，虽然工作量和压力有差，但是工作内容终究是大同小异，想办法回答你自己的问题，适不适合很重要，别让自己去了再痛苦，也别指望能从别人那里得到一个完美的答案，没有人比你更了解自己。&lt;/p&gt;
+
+&lt;p&gt;关于我个人，我是纯文科，中文的，但我选择cs的时候选的比较痛快，因为根据以往的经历和得到的信息，我认为自己可以，我也对这方面感兴趣。（请别问我为什么认为自己可以，我当时高考分数学比语文高了30分却选择读了中文的时候，身边一票人也都在问我为什么，回答这种问题很累，简直就是扯皮级别的，我只想回答我自己，恕我懒。如果我的态度得罪了人，那恕我无礼，希望没有气到您。）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;我个人情况&lt;/h2&gt;
+
+&lt;p&gt;985，中文专业，gpa有86+，没有仔细算，因为我也不申水卢，GPA基本是够了。&lt;/p&gt;
+
+&lt;p&gt;我申了 U of Calgary, Mcmaster，York，Manitoba拒了我的有Mcmaster，我申请确实比较晚，麦马等我补齐材料已经是三四月的事，6月末吧，拒的我，理由是没有available seats了，但是真正理由谁知道呢，不过值得注意的是，这家好像录取是rolling-base的，而且效率很差，早期递材料，对面效率还能好点，如果大家想申，请尽早。最后选择U of C。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;关于约克&lt;/h2&gt;
+
+&lt;p&gt;关于其他学校的情况，我所在群的群主已在&lt;a href=&quot;http://bbs.gter.net/thread-1961134-1-2.html&quot;&gt;帖子&lt;/a&gt;里说过，我就不多赘述了，在这只是补充一下我了解到的关于这两所学校的细节。&lt;/p&gt;
+
+&lt;p&gt;约克家在发offer与转学分方面都迅速爽快异常，一方面，群里今年就没人被拒，另一方面，我所知道的转了学分的，都转了90个，当然90个学分里多少个有用，你需要自己对着calendar一个个数。对我而言，如果我要拿honor学位，需要读86个学分，读major学位，需要读好像是62个学分。但是据我所知，约克cs只有honor带有学校的coop（不过我好像也听有人说major也有，但我自己没有在官网上查出来，所以我对此存疑，当然很大可能是我蠢，没查出来哈哈哈哈哈哈哈。）如果理科同学去，很可能转的结果比我好很多，因为我只有一门微积分，还没转成，转的全是些degree requirements之外的课，只能拿来当选修，理科同学要是能把数学都转了加上约克大一要求的一大门（6 credits）的物理or化学or生物转了，还是很可观的。而且我知道一个同学好像是cs转心理，他说他只用修40+还是50+就可以拿honor。所以我觉得约克转学分还是很大方的。另外， 约克好像是3门full-time（不是非常确定），因为有的学校是4门full-time，确实难凑，我说不上full-time对最终工签影响有多大，因为我也没自己查过，但是还没来得同学还是稍微关注一下这点。&lt;/p&gt;
+
+&lt;p&gt;关于政策与工作，多伦多的工作机会真的多！多！多！这点其实很好想象，想象一下北上广和其他二线城市之间的机会差异，大家都懂的。但是安省的政策从目前看来确实比较悲观，一方面我没看出政策本身对本省学生的偏向（但话也说回来，各省公司会偏向自己省的学生，这本身就是一种偏向。）一方面今年安省省提名好像5月就用完了？这个也是……..哎……..不过11月有可能改政策，大家可以先观望下。我自己是在想，退一万步说，如果到时候因为各种原因回国了拿着加国工作经验找工作，当然是大城市的大公司在简历上更好看。而且我也有朋友说，政策这种东西天天变，工作机会多才重要，所以说到底，这也都是个人取舍了。&lt;/p&gt;
+
+&lt;p&gt;关于我自己的选择，我是因为亲人在安省，所以努力想去安省，当时其他省的学校都没怎么申，约克录我我就想干脆去约克，所以我当时严重倾向约克麦马，但又被麦马拒了。后来是在要offer的过程中，和约克邮件电话撤了快三个月的皮，我居然愣是没要来自己的offer？因为它的central admission没有邮箱，只有电话，所以当时是找院系小米扯皮要电子版offer，小米在和我邮件往来6.7次后终于去给我要了，还说看着他们寄了purolator，单号是XXXXXXXX，后来我查不到单号，拿不到电子ad，我又去催了一遍，结果又回我说，sorry for the delay，她又去催啦，blablabla，然而一个多月后我还是查不到单号，拿不到ad。后来怒而打电话，结果人根本不知道院系小米去要了我ad，扯皮了6通电话吧，花了300还是多少钱的话费，我还是拿不到，然后我妈都愁的睡不着觉了，一直觉得我是不是申了假学校。虽然朋友说学校都这样，你过去后也会遇到很多相似的事，但是我对约克确实寒心的厉害，不管其他学校是不是这样，但我确实不愿意去了。也是我运气不好，别人的ad都收的好好的，所以说到底最后没去是个人原因，但我觉得约克的管理确实有点….我怀疑他们小米都是一群兼职？每次找过去都不是一个人。&lt;/p&gt;
+
+&lt;p&gt;另外约克地区的安全状况确实不如其他地区好，不过学校里据说还是很安全的，想去的朋友最好也关注一下这方面。还有朋友和我说，约克cs限制学生一学期只能选三门cs课，但我没有看到这句话，所以我不确定，有心的朋友可以查一下。不过约克暑期开课情况很好。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;关于卡尔加里&lt;/h2&gt;
+
+&lt;p&gt;好吧，我感觉我去卡尔加里最大的原因就是offer到的各种顺利，小米各种当天回复，无视我哈哈哈哈哈。&lt;/p&gt;
+
+&lt;p&gt;转学分方面，卡尔加里是有after degree这个项目，但是根据小米给我的项目要求和校历来看，就是major的要求，就是它会直接给二学位的学生转48个学分（当然会意思意思管你要一下课程描述），剩下72个学分就是需要修的学分了，但这72个里还可以转，因为我只修过一门微积分，所以我要修69个，我正在等，看能不能把我的逻辑课给转了。还有一个和我一起去的理工科朋友，把微积分，线代，c语言，统计课全给转了，只用修60个。&lt;/p&gt;
+
+&lt;p&gt;卡前置问题，其实所有学校都有这个问题，因为你不上完低年级的cs课，就是没有基础上高年级的课啊，所以我觉得真正的卡前置是：你只修项目内的课程却凑不够full-time，要拿其他课来凑，增加预算和workload。由于卡加只要3门就full-time，还有一门统计，一门逻辑，一门计算机相关ethics这三门cs和数学外的课（但这也意味着项目里的cs课少了，因为学分被这些课占了），所以基本不用选项目要求外的课程就能够full-time。像我自己，就是fall和winter都选了4门。&lt;/p&gt;
+
+&lt;p&gt;关于coop，根据官网上写的，卡加的internship项目是要求12-16个月连续的internship，但是比较蛋疼的一点，是我按照自己的课程表算的，我要第五个term结束后才能internship。我总共是6个term。详情请见卡加的calendar。&lt;/p&gt;
+
+&lt;p&gt;关于蛋疼的另外一点，根据我目前得到的信息来看，卡加暑假不怎么开cs高级课！！！！第一个summer我因为cs课上的少，估计是难以自己找到coop（写帖子的时候我自己用词太随便了，楼里前辈提醒，自己找的不叫coop，我才反应过来，大家别被我误导！据我目前的信息，卡加只有最后一个internship，项目本身无coop，我这里说的coop其实是专业实习，是自己找的那种，平时在群里聊天用词随便留下的习惯，不好意思。），当然到时候我也会努力试试，但我已经做好打工准备了（说得好像我就能找到打工一样），anyway，暑假不开课简直蛋疼，不过要是能找到可以练练英语的打工，我还是很开心的。所以虽然理论上来说我的课程是6个terms搞定，但是考虑到中间两个summer，我就是8个terms了，如果再加上internship，那就是11个terms了。&lt;/p&gt;
+
+&lt;p&gt;哦，你问我coop和internship的区别？我是理解为短的是coop，长的一年及以上的是internship，理解错了概不负责。&lt;/p&gt;
+
+&lt;p&gt;关于政策，我只能说目前我看来对本省的能找到cs工作的cs学生还是友好的，但是阿省出名的排期长，好像我还听过乱拒人的？大家自己决定了，而且政策是会变的。（16.9.6更新一点：跟几个前辈聊天，发现现在排期不长，但一定要注意NOC类别。）&lt;/p&gt;
+
+&lt;p&gt;关于城市，卡加是加拿大第四大城市，石油省就不多提了，据说cs好工作好多是和石油勘测相关，我的心好痛，走着看吧。别问我为什么敢走着看，我只是一条行走的咸鱼，再问也不自杀。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;关于其他学校&lt;/h2&gt;
+
+&lt;p&gt;上面的信息我都不负责，下面的我就更不负责啦哈哈哈哈哈哈，下面都是听来的，听来的！&lt;/p&gt;
+
+&lt;p&gt;群里SFU的朋友们第一学期好像大都是两门课，凑full-time有难度，具体原因我不知道。（更新内容：补充一下，sfu的第一学期的情况是因为我跟我同学都选晚了，所以有一门离散数学没有选上。sfu的cs系比较大，所以暑假也会开课。By 萝卜君，就是去SFU的小伙伴）&lt;/p&gt;
+
+&lt;p&gt;群里去曼大的朋友理想状态也是6个terms毕业，但是据朋友说，曼大暑假是开课的，所以你们懂得。曼大的coop是穿插在学期中的，要求不能连续做coop，必须一个学期学习一个学期coop，要间隔开。&lt;/p&gt;
+
+&lt;p&gt;康大四门才full-time，但可以用法语课凑。&lt;/p&gt;
+
+&lt;p&gt;群里去麦马的工科朋友要修60个学分，22门课，根据自己排课，6个term以内可以搞定，而且麦马只要你排好课，大四好像可以随意coop，暑假也可以，coop加起来至少12个月，感觉项目挺好的，但我也只是听来的，想去的朋友还要自己查才好。&lt;/p&gt;
+
+&lt;p&gt;UBC明年学费爆炸，想去的朋友可关注涨幅。&lt;/p&gt;
+
+&lt;p&gt;加拿大有些学校出现过有国际生不能申coop的情况（非cs专业），也有对国际生要求比本地生高的情况，大家选校需小心。&lt;/p&gt;
+
+&lt;p&gt;想起再说。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;关于二学位签证&lt;/h2&gt;
+
+&lt;p&gt;版里签证贴很多，大家都看下来，办签证就有数了，这里只说重点和二学位相关。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有雅思成绩才能走sds，你如果有美签今年好像还可以走另一条路，叫can什么的，但我不了解，以下所说都是sds相关&lt;/li&gt;
+  &lt;li&gt;群里今年二学位的都顺利过签，个人感觉二学位在签证官眼里不算倒读，是正常读法，毕竟加拿大二学位本地人也很多在读&lt;/li&gt;
+  &lt;li&gt;递签之前先进签证群，问问哪边出签快，出签顺利，虽然理论上而言各地无差别，但实际上今年上海递签的孩子在4月，7月都被坑哭了。&lt;/li&gt;
+  &lt;li&gt;今年二学位递签的大家都写了study plan以防万一，虽然study plan不是必须，但胆小如我的二学位朋友还是写一下&lt;/li&gt;
+  &lt;li&gt;房产证，车证非必须&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如果毕业的时候，学签快到期了，学签最好续一下，因为申工签的时候，学签要再有效期内，考虑到他们审工签的时间，不要侥幸。虽然一个还没入学的人说这个很奇怪，但是因为有朋友就是毕业时审工签的时候学签已过期，工签GG了，所以我觉得这条很重要，就放这了。&lt;/li&gt;
+  &lt;li&gt;赴加前，看牙，检查身体，你不会想过去治牙或者治病的。&lt;/li&gt;
+  &lt;li&gt;千万别以为60分=两年毕业，也别轻易认为自己可以一学期修5门6门课，光速毕业，课程负担问题不说，因为这个都是自己衡量的，我不好说，但是学校未必会让你这么来，你对着calendar以及各门课的前置课自己好好排一个课表，再考虑下个学期的开课问题，才能得出大概的毕业时间。&lt;/li&gt;
+  &lt;li&gt;第一次入境的时候请谨慎带中药，啥能带啥不能带我也还不够清楚，但是这个东西比较容易被拖去小黑屋查，好多飞机晚上到，又要排队换study permit，再被拖去小黑屋就太痛苦了。&lt;/li&gt;
+  &lt;li&gt;study permit不止可以在温哥华换，哪都能换。&lt;/li&gt;
+  &lt;li&gt;我好饿，懒得写了，想起再说。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;attention&quot;&gt;Attention!&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;最后最重要的一点&lt;/strong&gt;：以上的全部内容都是瞎扯！瞎扯！瞎扯！别信我！别信我！别信我！重要的事说三遍。对于要申请的人来说，任何来源于任何人的信息都只是参考，谁说的话都可能只是扯淡，我所说的东西也只是我根据我所获得的信息总结得出，很多都是主观的东西。关于学校的信息，你唯一可信的只有学校官网和小米们（甚至小米们的话也请斟酌的听，因为有人去问麦马coop的事情时，有小米回答说是没有，后来他不甘心又问了，才发现是有的。）关于移民的信息，唯一可信的是cic上以及各省的“官方移民信息网”（大家意会…），关于移民政策的问题，请尽量不要看中文信息，因为中文信息来源多为中介且更新不及时，中介与网站对于此类信息的传播也很不负责。但我们要为自己负责。&lt;/p&gt;
+
+&lt;p&gt;希望申请的大家都能找到适合自己的路，但任何路都有牺牲，世间从无完美之事，cs二学位背后也都是坑，这毕竟是本科学位，若是最终回国大家都懂，此外专业适合与否绝对是大事，cs二学位的大家基本都已经21，22或更大，cs二学位加coop又往往是三年以上，时间青春的成本大家也懂。跳坑有取舍，投资需谨慎，祝我的伙伴们与后来的朋友都终能步入坦途，求仁得仁。&lt;/p&gt;
+
+&lt;p&gt;感谢寄托对我的启蒙和寄托里的前辈们的帮助，并感谢友爱的群里有爱的你们，名字我要悄悄加上，谢谢JOJO，KAREN，绿同学，cc，网易姐，草姐姐，Today，叙叙，基德君，腿哥，萝卜，精分，熊猫，学长，红红，空城，警长，Eric还有其他小伙伴们，遇见你们真是太好了，爱你们。&lt;/p&gt;
+
+&lt;p&gt;如果有人想找我或者群主或者我的小伙伴们，可以来群475766341，我在群里是那只汉尼拔 ，寄托应该过去后不会太多上了，毕竟过去后要忙的事有很多，如果大家发现我的信息有误，请帮忙在回帖里补充一下，别让我误导新人，非常感谢！！当然我也很可能自己回来更新。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://apply2canada.github.io/step</link>
+        <guid isPermaLink="true">http://apply2canada.github.io/step</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>UBC CS二学位项目介绍及申请信息</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;注：本文作者jojo，首发于&lt;a href=&quot;http://bbs.gter.net&quot;&gt;寄托&lt;/a&gt;加版(下文有任何“论坛”意思的词语都指向寄托,作者的寄托ID: 滴滴滴滴滴)，现征得作者同意，将此文放在此站。未经作者亲自授权，任何人不得以任何理由转载此文。希望到原文地址查看的（原帖后面有跟帖讨论，可能对你有帮助），请点击&lt;a href=&quot;http://bbs.gter.net/forum.php?mod=viewthread&amp;amp;tid=1979876&amp;amp;highlight=UBC&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;目前我申请过了UBC和SFU两个学校的二学位，SFU在3月底给了AD。UBC本来以为完全没戏了，因为要求一门北美的英语课作为先修课，然而在国内并没有机会上到。整个CS二学位的群里，除了我和另外一个同学申请过UBC之外，没有人申请过，虽然都觉得这个项目非常的好，但是被这门英语课卡着，都没人愿意去申请。&lt;/p&gt;
+
+&lt;p&gt;我是在入群之前申请了这个项目，所以当时并没有太关注到这个要求，后来入了群，才知道这个要求很难满足，大概就死心了。结果阴差阳错的，在今天早上突然给了AD，群里另一个申请的小伙伴还没有消息。&lt;/p&gt;
+
+&lt;p&gt;比较过SFU和UBC的两个项目，UBC的课程量要求的比较少，一共63学分，其中两门数学课修过了。而SFU要求的内容多，更深，要求补两门离散数学，专业课也更多。&lt;/p&gt;
+
+&lt;p&gt;但是因为我的定位并不是要去做程序员，UBC的项目的定位更像是要结合第一第二学位发挥优势，一共有15个学分的bridging module， 可以修交叉学科的课程。比如我就希望可以修机器学习、数据挖掘等方向和统计学交叉的课程，更符合我的预期，所以最后决定应该是要去UBC。
+在我心里，也通过各种渠道的了解，SFU和UBC的CS本科教育质量应该是差不多的，UBC名气跟大一些。如果想要去当程序员的话，SFU的二学位对专业深度的要求更高，一共要求45个学分计算机的upper class。如果想要像我一样，走交叉领域的发展的话，选择UBC的BCS项目帮助或许更大。而相对的，UBC二学位对upper class的课程量要求就比较少，如果想要去做程序员的话，这些课程量个人认为是不够的。&lt;/p&gt;
+
+&lt;p&gt;感谢二学位群里的小伙伴几个月来的陪伴，感谢原本打算一起去SFU刷代码的群主和CC，感谢男票的理解。尽管一开始最想去的就是UBC，结果都一心一意要去SFU之后，突然收到UBC的AD，反而有了许多纠结和牵挂。我一直都认为，其实选择什么学校对我自身的影响很小，尽管UBC名气确实比SFU高很多，SFU依旧是一所在CS领域非常好的学校，我无论去UBC还是SFU，都是能比较好的获得自己心中预期的教育成效。&lt;/p&gt;
+
+&lt;p&gt;前一段时间，贴吧里也总有人喜欢把SFU往死里黑，然而我觉得，加拿大的本科对于中国的许多大学而言，都是好很多的。同一个档次的学校其实也是差不多的。有机会出国的小伙伴们，适当比较哪儿所大学更适合自己无可厚非，但是过度了就没有必要了，因为世界排名150和世界排名200的学校对你造成的影响，真的没有你想得那么大。不如省下这个时间努力多学一点东西，多做一些实习，收益更大。&lt;/p&gt;
+
+&lt;p&gt;P.S.
+SFU二学位录取要求：最后两年成绩85分以上。&lt;/p&gt;
+
+&lt;p&gt;UBC：修过对应的英语课（据说有学姐为了这个专门去修了网课，我查了那门网课要9000RMB，就偷懒没去，结果也申请上了，估计因为这个要求所以最后申请的外国人很少，就破格让我去了）&lt;/p&gt;
+
+&lt;p&gt;个人条件：
+双非院校，绩点3.67，雅思7分，会计学专业，管理咨询公司一年工作经验。&lt;/p&gt;
+
+&lt;p&gt;P.S. 求UBC  CS群，求同样被录取的小伙伴们搭讪~~~~&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2016-5-19更新&lt;/p&gt;
+
+&lt;p&gt;看到很多小伙伴对UBC这个项目很感兴趣，我更新一些信息。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;UBC有两个二学位项目，一个是BCS（ICS）项目，这个不转学分，一共要求21门课修完就好，如果在第一学位修过相似的课程，就要选择另外的课程来上，总之21门这个数量并不能少。另外一个是second bachelor degree of science，这个是按照转学分来。目前知道的都是申请第一个项目，我虽然也被第二个项目AD了，但是没有最终去联系CS部问自己能转多少学分。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.cs.ubc.ca/students/u ... e/academic-schedule&quot;&gt;BCS 项目介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.cs.ubc.ca/students/u ... s/second-bsc-degree&quot;&gt;second B.SC项目介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;关于申请。千万不要忽视BCS表格的填写，有位绩点和我相似的小伙伴，对于BCS申请表格里的内容没有太重视，结果到现在都没消息。BCS要求说明200字数学能力，200字英语能力，以及250字SOP，虽然字数要去少，但是我还是花了很大功夫努力写好。因为不要求提供文书，所以要把握一切机会好好表现自己的学习能力。
+在SOP里，一定要写好这个项目和自己以前的经历、未来的职业生涯规划的结合，我为了组织SOP的逻辑性和内容，还特意查了很多资料，听了一节讲座。贴一下供大家参考：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Math proficiency:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am proficient in math and statistics, with 19 credits of math courses in universities. The math courses I have finished include calculus I, calculus Ⅲ, Probability theory &amp;amp; Mathematical statistics, Statistics, Linear Algebra and Mathematical Model with cumulative GPA 3.7 of math. I like math models and have attended some math model competitions in my school to get awards. I use the math knowledge I learned in my university to build math models and analyze data with STATA to finish my graduate thesis. My interest in math and statistics teaches myself in math&amp;amp;statistics software, such as STATA, Eviews and SPSS. I am sure my proficiency in math is quite enough for the BCS program.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;English proficiency: （有修过要求英语课程的请在第一句话就PO出来）&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have got 4-year bilingual education in my university, with most of professional courses taught in English. I learned to read, write and talk in English. I have finished my Oral English and Business English courses with high scores, which was taught by American teachers. I have passed IELTS with a score of 7.0. And in the last year of my university, I was chosen by the government of Fuzhou city to be a translator for the 2014 International Cycling Competition of Fuzhou to translate for English-speaker competitors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Computer Literacy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am comfortable with computer and it is a very important part in my life and job. As a management consulting assistant, I am skilled in Microsoft Office, which is highly required by my job. I have learned STATA and SPSS to analyze data, which is an important ability to analyze the business world. Now I am participating in an Internal Control and Information System Program in my company, so I am teaching myself SQL and python. I think I have achieved the requirement of computer literacy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;SOP：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My recent work experience in a risk-management consulting firm has been a huge influence on my decision to be part of BCS program at UBC. I found that many employers were not interested in our risk-management handbooks. By comparison, however, I attended a program to investigate Alibaba’s risk management methods to find that what they did do was to merge risk management with their information systems that enabled them to perform automatic detection, big data analysis, machine learning, and more. I quickly learned that only through the efficient use of information technology can companies effectively do risk management in the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Through this program, I plan to achieve the following things. First, I hope to master computer programming, database knowledge, and common IT skills. Second, I hope to focus on machine learning, data analysis, and data mining through the school’s module bridging course. Third, I plan to intern in a well-known company that is proficient with data mining and machine learning techniques to solve business problems through the school’s co-op program. This degree, my learning, and experience will all come together to allow me to become a professional consultant combining risk management knowledge and information technology.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;关于英语先修课的要求。官网本来是很坚定，必须要有修过的课程。然而我也不知道为什么我就被录取了，去问coordinater说针对我免了这个英语先修课的要求（有一种受宠若惊的感觉）。目前学校是让我去UBC里补这门课。一共要上6学分 first year English 课程，1门3年级英语课程。我打算以上网课的方式上完两门一年级英语课程，更便宜。（一门2W RMB简直肉疼，网课一门大概9000就好）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;关于学费。我计算了学费大概需要40W，算上生活费大概项目要60-65W，如果做coop可以赚些钱补贴，取决于自己找到多少时薪的工作。而从2016年秋季开始，UBC每年针对国际新生涨15%的学费，涨三年，就是说下一届要比我多交15%，下下届比我多交32.5%，资金紧张的小伙伴建议就别来了，去SFU更便宜，整个项目读完45W就好了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;关于修课。UBC有8门CS的必修课，其中3门有专门针对BCS项目开班，可以借机认识其他同项目的小伙伴。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://apply2canada.github.io/jojo</link>
+        <guid isPermaLink="true">http://apply2canada.github.io/jojo</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>报几个AD并且总结下目前了解到的情况(二学位)</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;注：本文作者iron，首发于&lt;a href=&quot;http://bbs.gter.net&quot;&gt;寄托&lt;/a&gt;加版(下文有任何“论坛”意思的词语都指向寄托,作者的寄托ID: Yeeeeezus)，现征得作者同意，将此文放在此站。未经作者亲自授权，任何人不得以任何理由转载此文。希望到原文地址查看的（原帖后面有跟帖讨论，可能对你有帮助），请点击&lt;a href=&quot;http://bbs.gter.net/forum.php?mod=viewthread&amp;amp;tid=1961134&amp;amp;highlight=%B6%FE%D1%A7%CE%BB&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: 只针对CS的二学位（second degree/After degree）。信息来自于我自身的申请情况和同群里面一起申请的朋友的交流。覆盖率不全面，并且可能有记忆不准确之处。旨在帮助后面想要申请的朋友合理定位，节省申请费。&lt;/p&gt;
+
+&lt;h2 id=&quot;cs&quot;&gt;明确有CS二学位的学校&lt;/h2&gt;
+
+&lt;p&gt;先说一下目前知道的明确表明有开放CS二学位项目，时常为大概2年的学校
+UBC，SFU ，UVic，Mcmaster&lt;/p&gt;
+
+&lt;p&gt;其他学校都是把二学位归在transfer这类，或者在官网上说明有二学位，但是没有说明大概时常。比如：UCalgary，UWestern（UWO），UWaterloo ，York等等。&lt;/p&gt;
+
+&lt;p&gt;事实上，要是想读二学位，不在乎时间成本的，整个加拿大的学校都可以考虑申请。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;说一下已知的录取要求&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;二学位其实不是特别容易申请的，是可能会卡GPA的。&lt;/li&gt;
+  &lt;li&gt;UVic给我的conditional ad里面明确要求大四成绩加权平均要到80分以上。&lt;/li&gt;
+  &lt;li&gt;SFU以最后两年平均分不到85分为由拒绝了群里面一个朋友（不过她后面argue成功，因为她自己算出来的GPA是有85+的。不过另外一个GPA只有70多的朋友直接被拒绝了）&lt;/li&gt;
+  &lt;li&gt;UWaterloo 貌似是把我们群里面人都拒了，理由是分数没到，但是没给具体要多少才行。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;再说几个比较容易拿到录取的大学：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;York 群里基本申请了的人都拿到了AD，而且效率很快&lt;/li&gt;
+  &lt;li&gt;Calgary 也是群里面申请的人基本都拿到AD了，而且效率也比较快。但是录取线未知，那几个朋友本来GPA就挺高&lt;/li&gt;
+  &lt;li&gt;曼大 群里申请的人都是拿到的UWestern（UWO） 寄托上面有个平均分70多的朋友拿到AD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;需要准备的材料&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;二学位申请不至于说没有难度，但是肯定比申请master要容易一些。&lt;/li&gt;
+  &lt;li&gt;一般情况下，二学位要求的材料就是语言成绩，高中成绩单（不含会考和高考）和大学成绩单，以及学位证明。有的学校，例如SFU，UVIC会发一张second degree application form，上面有类似于PS一样地方需要填写。但是字数都是200，300字，不会太多。&lt;/li&gt;
+  &lt;li&gt;如果是大四毕业，GAP了一年或者以及工作的朋友申请的时候可能会遇到某些学校让你补交CV，比如mcmaster。sfu则是所有人都需要交一篇cv。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;几个二学位申请的雷区&lt;/h2&gt;
+
+&lt;p&gt;审核时间特别长的学校，或者在官网写明发AD时间特别晚的学校:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mcmaster：我们群里面有大概10个+的朋友都申请麦马的二学位，最早的那位是12月就提交了网申，现在都快四月了，一直没有消息。我们群里面到目前为止没有一个人被麦马录了，也没有一个人被麦马拒了。据猜测应该是等正常本科录取完了之后才会考虑二学位。因此他家的AD很可能会很晚。（20160418更新 ： 麦马状态变了：conditional admission 。如果我sfu占位费还没有交的话现在肯定挺纠结的，残念。）&lt;/li&gt;
+  &lt;li&gt;UAlberta：估计5,6月。ddl都特别晚。&lt;/li&gt;
+  &lt;li&gt;Queen’sU： 官网写明6月才发二学位AD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;要求特别多/特别奇怪的学校：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;UAlberta：最事逼的学校。申请二学位需要交会考成绩，高考成绩（not mandatory）。要求是issued by provincial or municipal Education Authority，要能在 www.chinadegrees.cn 进行验证的。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;UWaterloo： 需要填很多表格，包罗万象，各种问题都有。另外还需要一个教授数学课的老师写推荐信（也是我唯一遇到需要推荐信的二学位项目）。我都还没来得及把表格填完就被拒了。也好，省得浪费精力。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;UBC： UBC有一个专门的bachelor of computer science项目，明确说了是2年，而且有COOP，很棒。但是有个要求，要有英语先修课，这个课不能是国内一般大学的里面的英语课，而必须是认可的英语授课的学校里面的英语课。相当于一般中国的大学都不符合这个要求。而因为这个要求，我们群里面鲜有人申请它。目前我知道可以通过网修某些公开课来满足这个要求，略贵，没有人实践。  （20160510 更新：伟大的jojo同志在没有修过要求的英语课的情况下拿到了这个项目的ad。祝贺她。详细情况大家可以问她，她在这个论坛上的ID是 滴滴滴滴滴）&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;我自己的申请情况&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;overall GPA 83  后两年87&lt;/li&gt;
+  &lt;li&gt;工科 双非大学&lt;/li&gt;
+  &lt;li&gt;一共申请了:Waterloo,WesternU,McMaster,UVic,SFU,Alberta,Calgary&lt;/li&gt;
+  &lt;li&gt;目前AD:UVic,SFU,Calgary，McMaster,Calgary&lt;/li&gt;
+  &lt;li&gt;目前Rej:Waterloo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我应该是去SFU。原因是第一在温哥华，位置好。第二是LinkedIn上面加拿大本科软件开放员排名SFU是第三，仅次于水卢和UBC。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;夹带一点私货&lt;/h2&gt;
+
+&lt;p&gt;目前寄托加版上面几个比较有话语权的人喜欢呛那些打算转CS的。好像现在转CS已经是原罪了。这也是可理解的，毕竟按他们说的，见多太多CS学渣，败坏华人工程师名声。不过我觉得大家都是成年人，不需要别人来教自己怎么念书。而且申请二学位的人，大概也都读了一个本科了，都知道人生的试错成本越来越大。打算二学位的人有很大部分都是经过深思熟虑的。So don’t label people.&lt;/p&gt;
+
+&lt;p&gt;后面有新的情况会继续补充。&lt;/p&gt;
+
+&lt;p&gt;20160416更新&lt;/p&gt;
+
+&lt;p&gt;补充说明一下二学位转学分的问题：&lt;/p&gt;
+
+&lt;p&gt;一般情况下，二学位的转学分是在拿到录取之后进行。拿我申请的sfu为例，填写了一份second degree application
+form之后，根据上面填写的结果，在录取之后向cs advisor提交相应课程的课程描述。最后由他返回免课结果。
+关于&lt;strong&gt;课程描述&lt;/strong&gt;，很多同学会决定这个很难写，因为大部分中国学校都没有这玩意。这里给大家提供一个方法，就是去中国比较好的大学，比如c9这类的大学网站上去找。这种好的大学一般都有正规的英文课程大纲，基本上下载下来改一改就可以当做课程描述了。&lt;/p&gt;
+
+&lt;p&gt;20160510更新签证情况：&lt;/p&gt;
+
+&lt;p&gt;已过签。说几个二学位签证非必要的东西（因为这个论坛上很多帖子都说了需要哪些东西）&lt;/p&gt;
+
+&lt;p&gt;P.S.:只针对楼主我这样大四在读，没有拿到正式毕业证的人P&lt;/p&gt;
+
+&lt;p&gt;房产证，车辆产权证，父母税单，银行流水，亲属证明 都非必需，换而言之，不需要准备它们。&lt;/p&gt;
+
+&lt;p&gt;另外，不需要公正的东西有大学成绩单（因为我们学校有官方出示的中英文成绩单），高中成绩单，高中毕业证 换而言之，如果你跟我一样是大四在读，申请二学位的，那么需要公正的东西只有 无罪证明。&lt;/p&gt;
+
+&lt;p&gt;公布一下咱们的加国二学位qq群，475766341，目前已有45人。欢迎所有对二学位感兴趣或者正在读二学位的朋友加入。&lt;/p&gt;
+
+&lt;p&gt;20160809  跟step的&lt;a href=&quot;http://bbs.gter.net/thread-1937101-1-1.html&quot;&gt;帖子&lt;/a&gt;联动。&lt;/p&gt;
+
+&lt;p&gt;最后，我希望各位寄希望于中介申请二学位的朋友，即使止损，能退就退。二学位申请没有什么含金量，拿出一周时间把加国各个学校网站看一遍，跟小蜜交流一下，什么都知道了，真的没必要找中介。&lt;/p&gt;
+
+&lt;p&gt;我们群里面有个几个朋友被中介推荐去了bishop’s university，目测中介跟这个大学有合作，他们能拿回扣，才会不惜余力地推销这个学校。实际上二学位要求真的不高，加国任何大学都在选择范围之类，我不是说bishop不好，而是说有那么多好的大学可以选，干嘛听中介的去一个相比之下不是那么好的学校。&lt;/p&gt;
+
+&lt;p&gt;我们群的目的就是为了打破信息壁垒，让这些中介的日子不要过得太舒服。我们也不会收钱帮人申请，二学位申请工作的含金量很低，希望大家自己动手，有问题跟大家交流。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://apply2canada.github.io/iron</link>
+        <guid isPermaLink="true">http://apply2canada.github.io/iron</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>机械自动化转计算机硕士申请经历</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;注：本文作者&lt;a href=&quot;http://laihaotao.github.io&quot;&gt;Eric&lt;/a&gt;，现征得作者同意，将此文放在此站。未经作者亲自授权，任何人不得以任何理由转载此文。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;今天，历经数次“意外”终于在广州的加拿大签证申请中心（CVAC）递了学签（study permit）的申请，走的是学习直入计划（sds）。为了积累人品，顺利过签，回忆一下从大三结束开始申请的经历，以供参考。之前写过一个英国的经历，想看请点击&lt;a href=&quot;http://www.jianshu.com/p/9ad81e4234eb&quot;&gt;这里&lt;/a&gt;。UK那边本来已经交了1000胖子的占坑费了，但是没想到交了占坑的第三天，枫叶国像我抛来了橄榄枝。经过万分激烈的思想斗争，还是选择了枫叶（谨以此文献给我打水漂了的1000胖子，那时候还不是现在脱欧后的汇率！！！）。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;写下面的内容之前，先要感谢一下对我的申请有过帮助的人们：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;广欢师兄、江宇师姐、绚子师姐&lt;/li&gt;
+  &lt;li&gt;各位给过我意见的同学，特别是一起准备雅思的主流，还有帮我改过作文的远凤和晓谊&lt;/li&gt;
+  &lt;li&gt;爷爷、父上、母上、小姑妈和姑丈、阿三 …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;真正有出国念书的想法是在大二，但是现在已经不记得是因为什么突然有这么强烈的想法了。那时候，想到去的第一个国家就是Canada，UK是在申了加国之后觉得心里没底再补申的。至于为什么是Canada呢，&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;教育质量高，学费相对不那么高&lt;/li&gt;
+  &lt;li&gt;北美CS比较腻害&lt;/li&gt;
+  &lt;li&gt;移民政策相对好（移不移现在还没想好，过去观察下再说）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ps：我不是加拿大派来的推广大使，安利到此结束。还是先说说背景吧：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;国内野鸡大学毕业，成绩渣渣（递申请时候均分还没到80，毕业后均分80点几），语言刚好压线（IELTS 6.5），相关经历有一些（详情看&lt;a href=&quot;http://laihaotao.github.io/about&quot;&gt;这里&lt;/a&gt;），从me跨专业申cs（或者se）。毕业之后呢，也没打算从事什么高深的学术研究，老老实实的找份码工做就好了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一开始，我不太死心，还是想申点research-based的program。就写了个CV和PS，发了大概三十封左右的套磁信，但是回复的不够10封，不是没有funding就是没有position。所以，深感自己的学校层次和GPA都不足以读research，就申什么course-based的项目。一共递申请的学校是四所，最后只录了一所（悲惨的result）。这五所学校分别是：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Waterloo Uni.    背景不够，均分不够，拒了&lt;/li&gt;
+  &lt;li&gt;Ottawa Uni.       背景不够，平均分有所欠缺，拒了&lt;/li&gt;
+  &lt;li&gt;Western Uni.     均分不够，拒了&lt;/li&gt;
+  &lt;li&gt;Concordia Uni.  录了，但是也不是一递申请就录的那种，后文叙述&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;前面三所，递完材料之后，都是好像泥牛入海一样，一直没有回应（典型的加拿大处理方式，要申请的做好心理准备，等待是痛苦的），直到六月中旬纷纷发出拒信。最后一所，Concordia Uni. 审完材料后给我来信说要本科毕业均分达到80就可能会给offer，否则拒了。当时大四上已经结束了，还剩一门毕业设计的15学分。所幸，经过三个多月的毕业设计大作战，拿了优秀，均分过了80，成绩单出来后马上递了过去，三天后下了offer。&lt;/p&gt;
+
+&lt;p&gt;因为我是跨了专业，一方面是平均分不够，另一方面是没有很强大的CS背景，所以导致拒信那么多。这里，可以总结加拿大的申请要素：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;平均分很重要！&lt;/li&gt;
+  &lt;li&gt;平均分很重要！&lt;/li&gt;
+  &lt;li&gt;平均分很重要！&lt;/li&gt;
+  &lt;li&gt;保持本硕学科的一致性也很重要！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;如果想跨专业的，大一大二就赶快转专业，大三大四可以考虑在别的地方补相关的专业课，使你的学术背景往你希望转的专业方向靠拢。只要你能提供成绩单，加拿大的学校是会考虑你的背景的。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;申请季到了，拿着材料就去网申，全世界的网申系统都差不多，简单的总结就是拼命填表。然后缴费，加拿大的学校申请费基本稳定在100加币的样子，我申的几所都是100刀，这里推荐信用卡付款，基本上visa和master都可以（不要问union pay（银联）可不可以，没戏的）。&lt;/p&gt;
+
+&lt;p&gt;加村毕竟是村，还是有几个死心眼的学校非要邮寄材料过去的，我申的学校里面ottawa和concordia都要邮寄。材料毕竟非常重要，平信什么的就不要用了，我是用的是dhl，基本180RMB一件，三天就到（ps，一个多月前学校发给我的纸质版offer还没寄到）。&lt;/p&gt;
+
+&lt;p&gt;申请递上去之后，你就&lt;strong&gt;没事干了&lt;/strong&gt;！你需要做得事情就是：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;等&lt;/li&gt;
+  &lt;li&gt;等&lt;/li&gt;
+  &lt;li&gt;等&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;一般来说，都是1月份就能完成所有的手续（对于申请fall入学的孩纸来说），&lt;strong&gt;万恶&lt;/strong&gt;的加拿大是在5月底（如果你足够优秀）开始陆续的发offer，一直7月初都还会发，即使现在7月底了，我还听说waterloo还有人在wast list上没有被拒也没有offer的。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;下面讲一下Concordia的录取情况，还有介绍一下Concordia University（下简称康大）。&lt;/p&gt;
+
+&lt;p&gt;康大（百度百科的&lt;a href=&quot;http://baike.baidu.com/link?url=UOvXrxTa-ZOcPS5sD_1V2kjsC7tomYA3ErF2A17FUqTcBSvr_l90ma6cpLFJ_iUJ3sxINaYnQbk8qis8VNEFKK&quot;&gt;传送门&lt;/a&gt;，官方主页&lt;a href=&quot;http://www.concordia.ca/&quot;&gt;传送门&lt;/a&gt;），位于加拿大魁北克省蒙特利尔市（法语区）。一共有两个校区，分别是位于downtown的Sir G. Williams校区（cs系在这里）和位于城市郊区的Loyola校区。&lt;/p&gt;
+
+&lt;p&gt;康大的cs系是在工程学院下，全程是计算机和软件工程系。一共有四个（如果没有记错的话）硕士的program，我录取的是master of applied computer science，由于本科不是cs（申请要求上写着需要cs的本科才能申此专业，但是有相关的背景的同学也可以强申试试），要求补四门本科课。program的项目的2年，想要获得硕士学位，共需修满45个学分方可毕业，每门课程的分数不得低于B，满足一定的成绩可以申请coop。&lt;/p&gt;
+
+&lt;p&gt;拿到offer后，首先要accept，然后交完deposit就可以和advisor联系，进行选课。由于很多的课程都是需要前置课的，所以在没有补完本科的四门可的情况下能够选的课程非常有限。它的要求是一个学期两门硕士课，没有修完本科课时，两门本科课加上一门硕士课。根据前辈讲，修完本科的课后，一个学期三门硕士课也是可以的。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;选课，还不是重要的，最重要的是，拿到offer后记得要尽快开始申请study permit。对于雅思成绩6以上的同学，可以走sds的通道，相比普通签证，这个项目需要的资金证明比较少，而且审核速度比较快。下面，讲述下在广州递签的过程。&lt;/p&gt;
+
+&lt;p&gt;一个人未婚的成年人自己递交材料申请学签，需要准备的文件有：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IMM 1294&lt;/li&gt;
+  &lt;li&gt;父母教育就业信息表&lt;/li&gt;
+  &lt;li&gt;申请人教育就业信息表&lt;/li&gt;
+  &lt;li&gt;白底护照尺寸照片两张（背面写护照上的名字拼音和出生日期）&lt;/li&gt;
+  &lt;li&gt;父母工作证明&lt;/li&gt;
+  &lt;li&gt;gic证明文件&lt;/li&gt;
+  &lt;li&gt;本科毕业证、学位证和无犯罪公证件&lt;/li&gt;
+  &lt;li&gt;高中毕业证及其翻译件&lt;/li&gt;
+  &lt;li&gt;资金证明&lt;/li&gt;
+  &lt;li&gt;雅思成绩单原件&lt;/li&gt;
+  &lt;li&gt;身份证正反面复印件以及翻译件&lt;/li&gt;
+  &lt;li&gt;CAQ（如果是魁省的大学的话）&lt;/li&gt;
+  &lt;li&gt;体检单副本&lt;/li&gt;
+  &lt;li&gt;护照以及照片页复印件&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;先说说gic，这是一个类似理财计划的东西，我是在中国银行天河支行找理财经理办的。简单来说，就是在加拿大开一个户头，然后往里面打1万加币，将来这个钱是按月分期还给你的。走sds通道的话，必须要办理这个。办理的过程是：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;去有资质的银行开户，成功的话加拿大的银行会发一个确认书过来，我们拿着确认书去汇款，汇完款过几天，就会有gic的证明开过来了。这里的时间有长有短，我用了5个工作日得到这个gic的证明。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;到Montreal后更新&lt;/strong&gt;：不要用中国银行如果你来Montreal的话！这里中国银行只对公服务，所有的gic什么的都要寄到多伦多来处理。&lt;/p&gt;
+
+&lt;p&gt;再说下体检，个人认为这个体检就是一个大坑。先说说体检费1700大洋！做的事情就是：身高体重、测视力、抽血、验尿、检查下身体（躺在那里，按两下）、X光。我是在林和西路的中泰国际广场的A座9楼的新奥美嘉医疗中心做的。一个上午就拿到了体检副本，签证的时候需要递上去的。&lt;/p&gt;
+
+&lt;p&gt;最后是公证，我是在南方公证处公证的，把需要公证的东西的原件带过去，再告诉他要一个无犯罪的公证。他就会帮你办理，但是这里等的时间比较长，需要两个星期，建议提前办理。2份毕业证、学位证和无犯罪公证，费用是480RMB。&lt;/p&gt;
+
+&lt;p&gt;提一下，父母教育就业信息表、申请人教育就业信息表check list上没有，但是去到现场的工作人员要求我们填写，建议还是先填了再去，现场填表太痛苦了。签证的费用是955RMB，我开了个短信服务（一时不慎就开了，后来才发现是10刀…）。&lt;/p&gt;
+
+&lt;p&gt;ps，我由于交了房产证和汽车证做辅助材料。但是，辅助材料是要翻译的，可以自己翻译，如果签证中心翻译79RMB一页。听到这个价格，我就吐血了，在签证中心附近找了个网吧翻译完的。&lt;/p&gt;
+
+&lt;p&gt;所有材料交上去之后，就可以回家等候消息了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;最后，希望各路大神保佑顺利过签，欢迎到各位Montreal找我玩~&lt;/p&gt;
+
+&lt;p&gt;Eric
+2016年7月21日于广州&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://apply2canada.github.io/eric</link>
+        <guid isPermaLink="true">http://apply2canada.github.io/eric</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

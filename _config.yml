@@ -6,18 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Apply2Canada
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  一些帮助你申请加拿大学校的文章,所有文章未经原作者许可禁止转载。
+# baseurl: "http://apply2canada.github.io" # the subpath of your site, e.g. /blog
+url: "http://apply2canada.github.io" # the base hostname & protocol for your site
 
-github_username:  jekyll
-google_analytic_id:
-disqus_name:
+github_username:  apply2canada
+# google_analytic_id:
+# disqus_name:
 
 permalink: /:categories/:title
 paginate: 5
@@ -25,8 +23,8 @@ paginate_path: /page/:num
 
 # jekyll seo tag settings
 logo: assets/images/example-image.png
-twitter:
-  username: jekyllrb
+# twitter:
+#   username: jekyllrb
 
 # Build settings
 markdown: kramdown
